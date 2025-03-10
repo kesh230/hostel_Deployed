@@ -1,0 +1,22 @@
+{
+    "hostel_timings": {
+        "entry_exit": "6:00 AM to 10:00 PM",
+        "quiet_hours": "10:00 PM to 6:00 AM"
+    },
+    "mess_timings": {
+        "breakfast": "7:30 AM to 9:30 AM",
+        "lunch": "12:30 PM to 2:30 PM",
+        "snacks": "4:30 PM to 5:30 PM",
+        "dinner": "7:30 PM to 9:30 PM"
+    },
+    "today_menu": {
+        "breakfast": "Idli, Sambar, Coconut Chutney",
+        "lunch": "Dal Tadka, Jeera Rice, Mixed Veg, Roti",
+        "snacks": "Samosa, Tea",
+        "dinner": "Paneer Butter Masala, Naan, Rice, Gulab Jamun"
+    },
+    "emergency_contacts": {
+        "warden": "+91-9876543210",
+        "security": "+91-1234567890"
+    }
+}
